@@ -7,7 +7,7 @@
 
 # StepByStep App
 
-This is my submission to the Sparq exercise challenge.
+This is my submission to the Atlas Lift exercise challenge.
 
 ## Table of Contents
 - [Features](#features)
